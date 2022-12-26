@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709904836029",
+    "project_id": "audioshadow-d1848",
+    "storage_bucket": "audioshadow-d1848.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709904836029:android:eb4e99ceba064a0e919ed4",
+        "android_client_info": {
+          "package_name": "com.ballistic.audioshadow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709904836029-9npds01d624f2lbghrbkf56ap299poq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ballistic.audioshadow",
+            "certificate_hash": "c6611f40e8b101e29eff2cecf067a2cac73af1b4"
+          }
+        },
+        {
+          "client_id": "709904836029-ed5sclsnovpescufdq1j94rsssr52q0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBjC6gt9smCY8-lAC_ulNSAvu-SN7vQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709904836029-ed5sclsnovpescufdq1j94rsssr52q0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
