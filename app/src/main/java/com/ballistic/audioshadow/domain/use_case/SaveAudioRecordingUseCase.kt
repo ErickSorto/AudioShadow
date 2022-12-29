@@ -1,5 +1,6 @@
 package com.ballistic.audioshadow.domain.use_case
 
+import com.ballistic.audioshadow.core.Resource
 import com.ballistic.audioshadow.domain.model.AudioRecording
 import com.ballistic.audioshadow.domain.repository.AudioRecordingRepository
 import javax.inject.Inject

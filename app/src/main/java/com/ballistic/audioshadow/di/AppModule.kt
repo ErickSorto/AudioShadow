@@ -2,9 +2,6 @@ package com.ballistic.audioshadow.di
 
 import android.app.Application
 import androidx.room.Room
-import com.ballistic.audioshadow.data.data_source.AudioRecordingDatabase
-import com.ballistic.audioshadow.data.repository.AudioRecordingRepositoryImpl
-import com.ballistic.audioshadow.domain.repository.AudioRecordingRepository
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
